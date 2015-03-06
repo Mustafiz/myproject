@@ -1,0 +1,15 @@
+E:\csharp-practice\CsvFileReadWriteApp\bin\Debug\CsvFileReadWriteApp.exe.config
+E:\csharp-practice\CsvFileReadWriteApp\bin\Debug\CsvFileReadWriteApp.exe
+E:\csharp-practice\CsvFileReadWriteApp\bin\Debug\CsvFileReadWriteApp.pdb
+E:\csharp-practice\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.csprojResolveAssemblyReference.cache
+E:\csharp-practice\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.Properties.Resources.resources
+E:\csharp-practice\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.csproj.GenerateResource.Cache
+E:\csharp-practice\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.exe
+E:\csharp-practice\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.pdb
+E:\csharp-practice\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.StudentEntryUI.resources
+E:\csharp-practice\CsvFileReadWriteApp\bin\Debug\CsvHelper.dll
+E:\csharp-practice\CsvFileReadWriteApp\bin\Debug\CsvHelper.pdb
+E:\csharp-practice\CsvFileReadWriteApp\bin\Debug\CsvHelper.xml
+H:\mustafiz\CsvFileReadWriteApp\bin\Debug\CsvFileReadWriteApp.exe.config
+H:\mustafiz\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.exe
+H:\mustafiz\CsvFileReadWriteApp\obj\Debug\CsvFileReadWriteApp.pdb
